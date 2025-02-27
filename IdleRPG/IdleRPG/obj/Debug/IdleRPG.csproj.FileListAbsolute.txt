@@ -1,0 +1,7 @@
+D:\LikeLionGit\LikeLion\IdleRPG\IdleRPG\bin\Debug\IdleRPG.exe.config
+D:\LikeLionGit\LikeLion\IdleRPG\IdleRPG\bin\Debug\IdleRPG.exe
+D:\LikeLionGit\LikeLion\IdleRPG\IdleRPG\bin\Debug\IdleRPG.pdb
+D:\LikeLionGit\LikeLion\IdleRPG\IdleRPG\obj\Debug\IdleRPG.csproj.AssemblyReference.cache
+D:\LikeLionGit\LikeLion\IdleRPG\IdleRPG\obj\Debug\IdleRPG.csproj.CoreCompileInputs.cache
+D:\LikeLionGit\LikeLion\IdleRPG\IdleRPG\obj\Debug\IdleRPG.exe
+D:\LikeLionGit\LikeLion\IdleRPG\IdleRPG\obj\Debug\IdleRPG.pdb

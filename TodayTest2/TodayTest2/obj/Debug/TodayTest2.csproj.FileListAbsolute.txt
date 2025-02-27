@@ -1,0 +1,7 @@
+D:\LikeLionGit\LikeLion\TodayTest2\TodayTest2\bin\Debug\TodayTest2.exe.config
+D:\LikeLionGit\LikeLion\TodayTest2\TodayTest2\bin\Debug\TodayTest2.exe
+D:\LikeLionGit\LikeLion\TodayTest2\TodayTest2\bin\Debug\TodayTest2.pdb
+D:\LikeLionGit\LikeLion\TodayTest2\TodayTest2\obj\Debug\TodayTest2.csproj.AssemblyReference.cache
+D:\LikeLionGit\LikeLion\TodayTest2\TodayTest2\obj\Debug\TodayTest2.csproj.CoreCompileInputs.cache
+D:\LikeLionGit\LikeLion\TodayTest2\TodayTest2\obj\Debug\TodayTest2.exe
+D:\LikeLionGit\LikeLion\TodayTest2\TodayTest2\obj\Debug\TodayTest2.pdb

@@ -1,0 +1,7 @@
+D:\LikeLionGit\LikeLion\Test\Test\bin\Debug\Test.exe.config
+D:\LikeLionGit\LikeLion\Test\Test\bin\Debug\Test.exe
+D:\LikeLionGit\LikeLion\Test\Test\bin\Debug\Test.pdb
+D:\LikeLionGit\LikeLion\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\LikeLionGit\LikeLion\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\LikeLionGit\LikeLion\Test\Test\obj\Debug\Test.exe
+D:\LikeLionGit\LikeLion\Test\Test\obj\Debug\Test.pdb
