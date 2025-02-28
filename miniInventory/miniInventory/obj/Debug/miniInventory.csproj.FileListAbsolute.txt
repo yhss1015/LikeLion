@@ -1,0 +1,7 @@
+D:\LikeLionGit\LikeLion\miniInventory\miniInventory\bin\Debug\miniInventory.exe.config
+D:\LikeLionGit\LikeLion\miniInventory\miniInventory\bin\Debug\miniInventory.exe
+D:\LikeLionGit\LikeLion\miniInventory\miniInventory\bin\Debug\miniInventory.pdb
+D:\LikeLionGit\LikeLion\miniInventory\miniInventory\obj\Debug\miniInventory.csproj.AssemblyReference.cache
+D:\LikeLionGit\LikeLion\miniInventory\miniInventory\obj\Debug\miniInventory.csproj.CoreCompileInputs.cache
+D:\LikeLionGit\LikeLion\miniInventory\miniInventory\obj\Debug\miniInventory.exe
+D:\LikeLionGit\LikeLion\miniInventory\miniInventory\obj\Debug\miniInventory.pdb
