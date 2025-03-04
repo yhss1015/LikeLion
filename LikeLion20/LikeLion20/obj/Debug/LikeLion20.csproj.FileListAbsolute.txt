@@ -1,0 +1,7 @@
+D:\LikeLionGit\LikeLion\LikeLion20\LikeLion20\bin\Debug\LikeLion20.exe.config
+D:\LikeLionGit\LikeLion\LikeLion20\LikeLion20\bin\Debug\LikeLion20.exe
+D:\LikeLionGit\LikeLion\LikeLion20\LikeLion20\bin\Debug\LikeLion20.pdb
+D:\LikeLionGit\LikeLion\LikeLion20\LikeLion20\obj\Debug\LikeLion20.csproj.AssemblyReference.cache
+D:\LikeLionGit\LikeLion\LikeLion20\LikeLion20\obj\Debug\LikeLion20.csproj.CoreCompileInputs.cache
+D:\LikeLionGit\LikeLion\LikeLion20\LikeLion20\obj\Debug\LikeLion20.exe
+D:\LikeLionGit\LikeLion\LikeLion20\LikeLion20\obj\Debug\LikeLion20.pdb

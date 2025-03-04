@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LikeLionGit\\LikeLion\\LikeLion19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA516E28-A18A-4C0D-895B-F14A153D2E3E}|LikeLion19\\LikeLion19.csproj|d:\\likeliongit\\likelion\\likelion19\\likelion19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA516E28-A18A-4C0D-895B-F14A153D2E3E}|LikeLion19\\LikeLion19.csproj|solutionrelative:likelion19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LikeLionGit\\LikeLion\\LikeLion19\\LikeLion19\\Program.cs",
+              "RelativeDocumentMoniker": "LikeLion19\\Program.cs",
+              "ToolTip": "D:\\LikeLionGit\\LikeLion\\LikeLion19\\LikeLion19\\Program.cs*",
+              "RelativeToolTip": "LikeLion19\\Program.cs*",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAQwJoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T00:30:47.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

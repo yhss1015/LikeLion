@@ -1,0 +1,7 @@
+D:\LikeLionGit\LikeLion\ShootingGame\ShootingGame\bin\Debug\ShootingGame.exe.config
+D:\LikeLionGit\LikeLion\ShootingGame\ShootingGame\bin\Debug\ShootingGame.exe
+D:\LikeLionGit\LikeLion\ShootingGame\ShootingGame\bin\Debug\ShootingGame.pdb
+D:\LikeLionGit\LikeLion\ShootingGame\ShootingGame\obj\Debug\ShootingGame.csproj.AssemblyReference.cache
+D:\LikeLionGit\LikeLion\ShootingGame\ShootingGame\obj\Debug\ShootingGame.csproj.CoreCompileInputs.cache
+D:\LikeLionGit\LikeLion\ShootingGame\ShootingGame\obj\Debug\ShootingGame.exe
+D:\LikeLionGit\LikeLion\ShootingGame\ShootingGame\obj\Debug\ShootingGame.pdb
