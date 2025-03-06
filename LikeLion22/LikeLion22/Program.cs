@@ -335,9 +335,12 @@ namespace LikeLion22
             }
 
             Console.WriteLine($"총합 : {sum}");
-
-
+            
+            
         }
+
+        
+
 
     }
 
