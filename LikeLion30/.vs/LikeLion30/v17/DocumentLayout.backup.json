@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LikeLionGit\\LikeLion\\LikeLion30\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CABBCB6-3217-463E-B223-11201C2D91C0}|LikeLion30\\LikeLion30.csproj|d:\\likeliongit\\likelion\\likelion30\\likelion30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CABBCB6-3217-463E-B223-11201C2D91C0}|LikeLion30\\LikeLion30.csproj|solutionrelative:likelion30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LikeLionGit\\LikeLion\\LikeLion30\\LikeLion30\\Program.cs",
+              "RelativeDocumentMoniker": "LikeLion30\\Program.cs",
+              "ToolTip": "D:\\LikeLionGit\\LikeLion\\LikeLion30\\LikeLion30\\Program.cs*",
+              "RelativeToolTip": "LikeLion30\\Program.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwBsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T02:12:30.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
