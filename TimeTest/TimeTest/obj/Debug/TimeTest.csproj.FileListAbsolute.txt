@@ -1,0 +1,7 @@
+D:\LikeLionGit\LikeLion\TimeTest\TimeTest\bin\Debug\TimeTest.exe.config
+D:\LikeLionGit\LikeLion\TimeTest\TimeTest\bin\Debug\TimeTest.exe
+D:\LikeLionGit\LikeLion\TimeTest\TimeTest\bin\Debug\TimeTest.pdb
+D:\LikeLionGit\LikeLion\TimeTest\TimeTest\obj\Debug\TimeTest.csproj.AssemblyReference.cache
+D:\LikeLionGit\LikeLion\TimeTest\TimeTest\obj\Debug\TimeTest.csproj.CoreCompileInputs.cache
+D:\LikeLionGit\LikeLion\TimeTest\TimeTest\obj\Debug\TimeTest.exe
+D:\LikeLionGit\LikeLion\TimeTest\TimeTest\obj\Debug\TimeTest.pdb

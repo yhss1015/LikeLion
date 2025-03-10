@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LikeLionGit\\LikeLion\\BrickGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80D85BD4-81E9-4080-BA5B-CB6C6E488593}|BrickGame\\BrickGame.csproj|d:\\likeliongit\\likelion\\brickgame\\brickgame\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D85BD4-81E9-4080-BA5B-CB6C6E488593}|BrickGame\\BrickGame.csproj|solutionrelative:brickgame\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D85BD4-81E9-4080-BA5B-CB6C6E488593}|BrickGame\\BrickGame.csproj|D:\\LikeLionGit\\LikeLion\\BrickGame\\brickgame\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D85BD4-81E9-4080-BA5B-CB6C6E488593}|BrickGame\\BrickGame.csproj|solutionrelative:brickgame\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D85BD4-81E9-4080-BA5B-CB6C6E488593}|BrickGame\\BrickGame.csproj|D:\\LikeLionGit\\LikeLion\\BrickGame\\brickgame\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D85BD4-81E9-4080-BA5B-CB6C6E488593}|BrickGame\\BrickGame.csproj|solutionrelative:brickgame\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D85BD4-81E9-4080-BA5B-CB6C6E488593}|BrickGame\\BrickGame.csproj|D:\\LikeLionGit\\LikeLion\\BrickGame\\brickgame\\balldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D85BD4-81E9-4080-BA5B-CB6C6E488593}|BrickGame\\BrickGame.csproj|solutionrelative:brickgame\\balldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D85BD4-81E9-4080-BA5B-CB6C6E488593}|BrickGame\\BrickGame.csproj|D:\\LikeLionGit\\LikeLion\\BrickGame\\brickgame\\bardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D85BD4-81E9-4080-BA5B-CB6C6E488593}|BrickGame\\BrickGame.csproj|solutionrelative:brickgame\\bardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D85BD4-81E9-4080-BA5B-CB6C6E488593}|BrickGame\\BrickGame.csproj|D:\\LikeLionGit\\LikeLion\\BrickGame\\brickgame\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D85BD4-81E9-4080-BA5B-CB6C6E488593}|BrickGame\\BrickGame.csproj|solutionrelative:brickgame\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D85BD4-81E9-4080-BA5B-CB6C6E488593}|BrickGame\\BrickGame.csproj|D:\\LikeLionGit\\LikeLion\\BrickGame\\brickgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80D85BD4-81E9-4080-BA5B-CB6C6E488593}|BrickGame\\BrickGame.csproj|solutionrelative:brickgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Block.cs",
+              "DocumentMoniker": "D:\\LikeLionGit\\LikeLion\\BrickGame\\BrickGame\\Block.cs",
+              "RelativeDocumentMoniker": "BrickGame\\Block.cs",
+              "ToolTip": "D:\\LikeLionGit\\LikeLion\\BrickGame\\BrickGame\\Block.cs*",
+              "RelativeToolTip": "BrickGame\\Block.cs*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwDsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:26:46.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\LikeLionGit\\LikeLion\\BrickGame\\BrickGame\\GameManager.cs",
+              "RelativeDocumentMoniker": "BrickGame\\GameManager.cs",
+              "ToolTip": "D:\\LikeLionGit\\LikeLion\\BrickGame\\BrickGame\\GameManager.cs",
+              "RelativeToolTip": "BrickGame\\GameManager.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwDsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T02:23:56.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BARDATA.cs",
+              "DocumentMoniker": "D:\\LikeLionGit\\LikeLion\\BrickGame\\BrickGame\\BARDATA.cs",
+              "RelativeDocumentMoniker": "BrickGame\\BARDATA.cs",
+              "ToolTip": "D:\\LikeLionGit\\LikeLion\\BrickGame\\BrickGame\\BARDATA.cs",
+              "RelativeToolTip": "BrickGame\\BARDATA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:46:59.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bar.cs",
+              "DocumentMoniker": "D:\\LikeLionGit\\LikeLion\\BrickGame\\BrickGame\\Bar.cs",
+              "RelativeDocumentMoniker": "BrickGame\\Bar.cs",
+              "ToolTip": "D:\\LikeLionGit\\LikeLion\\BrickGame\\BrickGame\\Bar.cs",
+              "RelativeToolTip": "BrickGame\\Bar.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwBsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:45:36.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "D:\\LikeLionGit\\LikeLion\\BrickGame\\BrickGame\\Ball.cs",
+              "RelativeDocumentMoniker": "BrickGame\\Ball.cs",
+              "ToolTip": "D:\\LikeLionGit\\LikeLion\\BrickGame\\BrickGame\\Ball.cs",
+              "RelativeToolTip": "BrickGame\\Ball.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAiwBsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:45:50.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BALLDATA.cs",
+              "DocumentMoniker": "D:\\LikeLionGit\\LikeLion\\BrickGame\\BrickGame\\BALLDATA.cs",
+              "RelativeDocumentMoniker": "BrickGame\\BALLDATA.cs",
+              "ToolTip": "D:\\LikeLionGit\\LikeLion\\BrickGame\\BrickGame\\BALLDATA.cs",
+              "RelativeToolTip": "BrickGame\\BALLDATA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:39:29.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LikeLionGit\\LikeLion\\BrickGame\\BrickGame\\Program.cs",
+              "RelativeDocumentMoniker": "BrickGame\\Program.cs",
+              "ToolTip": "D:\\LikeLionGit\\LikeLion\\BrickGame\\BrickGame\\Program.cs",
+              "RelativeToolTip": "BrickGame\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:32:32.695Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

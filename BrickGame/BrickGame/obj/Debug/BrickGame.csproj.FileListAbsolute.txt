@@ -1,0 +1,7 @@
+D:\LikeLionGit\LikeLion\BrickGame\BrickGame\bin\Debug\BrickGame.exe.config
+D:\LikeLionGit\LikeLion\BrickGame\BrickGame\bin\Debug\BrickGame.exe
+D:\LikeLionGit\LikeLion\BrickGame\BrickGame\bin\Debug\BrickGame.pdb
+D:\LikeLionGit\LikeLion\BrickGame\BrickGame\obj\Debug\BrickGame.csproj.AssemblyReference.cache
+D:\LikeLionGit\LikeLion\BrickGame\BrickGame\obj\Debug\BrickGame.csproj.CoreCompileInputs.cache
+D:\LikeLionGit\LikeLion\BrickGame\BrickGame\obj\Debug\BrickGame.exe
+D:\LikeLionGit\LikeLion\BrickGame\BrickGame\obj\Debug\BrickGame.pdb
